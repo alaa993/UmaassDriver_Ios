@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>514487883653-t5lvpe194qnu517dicp40tb36psd8sg5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.514487883653-t5lvpe194qnu517dicp40tb36psd8sg5</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>514487883653-5p0f21k2dcqbt4vehsl7p47ropmir116.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDOGBdf5MQ0BlfGbyhQrZpWgp0_l3Js_7w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>514487883653</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Alaan.UmaassProvider</string>
+	<key>PROJECT_ID</key>
+	<string>umaassprovider</string>
+	<key>STORAGE_BUCKET</key>
+	<string>umaassprovider.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:514487883653:ios:64fdfde6a6d17fccb396ec</string>
+	<key>DATABASE_URL</key>
+	<string>https://umaassprovider.firebaseio.com</string>
+</dict>
+</plist>
